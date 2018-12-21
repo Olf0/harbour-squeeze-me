@@ -1,4 +1,4 @@
-###  Squeeze Me - Remote graphical user interface for Squeezebox players
+### Squeeze Me - Remote graphical user interface for Squeezebox players
 
 Pros:
 * Increased height for both sliders on players page

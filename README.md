@@ -2,7 +2,7 @@
 
 Pros:
 * Increased height for both sliders on players page
- * Package for tablet
+* Package for tablet
 
 Cons:
 * Not yet multi plattorm

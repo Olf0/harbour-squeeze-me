@@ -5,7 +5,7 @@ Pros:
 * Package for tablet
 
 Cons:
-* Not yet multi plattorm
+* Not yet multi-platform
 * No icons yet
 * No translations yet
 
